@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\annas\Desktop\Backend-uppgift-1\WebAPI\WebAPI\Data\ecommerce-db.mdf;Integrated Security=True;Connect Timeout=30" Microsoft.EntityFrameworkCore.SqlServer -Context sqlContext -ContextDir Data -OutputDir Entities -force
